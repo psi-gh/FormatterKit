@@ -298,3 +298,10 @@
 /* Year Unit (Plural, Abbreviated) */
 "yrs" = "гг.";
 
+"%d seconds" = "секунд";
+"%d minutes" = "минут";
+"%d hours" = "часов";
+"%d days" = "дней";
+"%d weeks" = "недель";
+"%d months" = "месяцев";
+"%d years" = "лет";
